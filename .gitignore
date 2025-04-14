@@ -1,0 +1,7 @@
+node_modules/
+.next/
+_pagefind/
+
+src/
+typedoc
+app
